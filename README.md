@@ -17,6 +17,17 @@
 - **Car Image Generation**: Integration with Gemini AI for generating car images based on user or app input (for future/AI-based features).
 - **Logout and Session Management**: Secure session handling with easy logout and confirmation dialogs.
 
+## ScreenShots
+
+<img width="427" height="914" alt="Screenshot 2025-11-11 at 2 16 32 PM" src="https://github.com/user-attachments/assets/50835e13-65a8-444f-bcf7-dd931348e22e" />
+<img width="427" height="914" alt="Screenshot 2025-11-11 at 2 15 54 PM" src="https://github.com/user-attachments/assets/91f3db5a-6eb6-4e0b-85c7-6cc994b5b229" />
+<img width="427" height="914" alt="Screenshot 2025-11-11 at 2 13 31 PM" src="https://github.com/user-attachments/assets/b588af74-6128-41f6-95f7-a794be3cfaaf" />
+<img width="427" height="914" alt="Screenshot 2025-11-11 at 2 17 35 PM" src="https://github.com/user-attachments/assets/b7c7d47f-45c5-4dda-8fc8-d7092bd2a979" />
+<img width="427" height="914" alt="Screenshot 2025-11-11 at 2 16 41 PM" src="https://github.com/user-attachments/assets/bc7d3b97-f0f9-41d5-b010-978a7069b71c" />
+<img width="427" height="914" alt="Screenshot 2025-11-11 at 2 16 50 PM" src="https://github.com/user-attachments/assets/dbce4b56-c8d1-41f4-998f-65360c605df6" />
+<img width="427" height="914" alt="Screenshot 2025-11-11 at 2 16 59 PM" src="https://github.com/user-attachments/assets/4cc9cd6c-3c26-4c46-a4cc-dee7b18e9f36" />
+<img width="427" height="914" alt="Screenshot 2025-11-11 at 2 17 23 PM" src="https://github.com/user-attachments/assets/8295501a-4d73-4b47-af74-587f19e8d192" />
+
 ## Tech Stack
 
 - **Language**: Kotlin
